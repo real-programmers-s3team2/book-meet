@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter } from "react-router-dom";
+import GlobalStyles from "./components/GlobalStyles";
 import AppRouter from "./components/Router";
 
 // function App() {
@@ -7,7 +7,12 @@ import AppRouter from "./components/Router";
 // }
 
 const App = () => {
-  return <AppRouter />;
+  return (
+    <>
+      <AppRouter />
+      <GlobalStyles />
+    </>
+  );
 };
 
 export default App;
