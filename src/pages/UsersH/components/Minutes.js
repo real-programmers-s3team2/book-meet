@@ -48,36 +48,36 @@ const Minutes = () => {
               <Link to="/minuteTool">
                 <Paragraph>데일리 스탠드업</Paragraph>
                 <Paragraph>10시30분 ~ 10시40분</Paragraph>
-                <Paragraph>알렉스줌</Paragraph>
+                <Paragraph>당진 1실</Paragraph>
               </Link>
             </OverviewContainer>
             <OverviewContainer>
-              <Paragraph>데일리 스탠드업</Paragraph>
-              <Paragraph>10시30분 ~ 10시40분</Paragraph>
-              <Paragraph>알렉스줌</Paragraph>
+              <Paragraph>인사팀 미팅</Paragraph>
+              <Paragraph>10시50분 ~ 13시40분</Paragraph>
+              <Paragraph>서울 1실</Paragraph>
             </OverviewContainer>
           </MainContainer>
           <MainContainer>
             <OverviewContainer>
-              <Paragraph>데일리 스탠드업</Paragraph>
-              <Paragraph>10시30분 ~ 10시40분</Paragraph>
+              <Paragraph>경영지원팀 회의</Paragraph>
+              <Paragraph>11시00분 ~ 12시00분</Paragraph>
               <Paragraph>알렉스줌</Paragraph>
             </OverviewContainer>
             <OverviewContainer>
-              <Paragraph>데일리 스탠드업</Paragraph>
-              <Paragraph>10시30분 ~ 10시40분</Paragraph>
-              <Paragraph>알렉스줌</Paragraph>
+              <Paragraph>신입 교육</Paragraph>
+              <Paragraph>11시30분 ~ 15시40분</Paragraph>
+              <Paragraph>길버트줌</Paragraph>
             </OverviewContainer>
           </MainContainer>
           <MainContainer>
             <OverviewContainer>
-              <Paragraph>데일리 스탠드업</Paragraph>
-              <Paragraph>10시30분 ~ 10시40분</Paragraph>
-              <Paragraph>알렉스줌</Paragraph>
+              <Paragraph>간부 회의</Paragraph>
+              <Paragraph>12시30분 ~ 13시40분</Paragraph>
+              <Paragraph>서울 2실</Paragraph>
             </OverviewContainer>
             <OverviewContainer>
-              <Paragraph>데일리 스탠드업</Paragraph>
-              <Paragraph>10시30분 ~ 10시40분</Paragraph>
+              <Paragraph>경리팀 미팅</Paragraph>
+              <Paragraph>15시30분 ~ 16시40분</Paragraph>
               <Paragraph>알렉스줌</Paragraph>
             </OverviewContainer>
           </MainContainer>

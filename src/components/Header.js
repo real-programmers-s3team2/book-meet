@@ -28,7 +28,7 @@ const Header = () => {
   return (
     <MainContainer>
       <Title>
-        <Link to="/">회의 관리 시스템</Link>
+        <Link to="/main">회의 관리 시스템</Link>
       </Title>
       <BtnContainer>
         <BtnList>
